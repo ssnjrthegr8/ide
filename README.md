@@ -1,11 +1,1 @@
-## Development
-
-(Requires Docker 18.09 or higher)
-
-```
-git clone https://github.com/cs50/ide.git
-cd ide
-make dev
-make startdev
-# Then visit http://localhost:1337/static/ide.html
-```
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ssnjrthegr8/ide)
