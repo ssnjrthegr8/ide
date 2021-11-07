@@ -1,0 +1,7 @@
+{
+  "name": "cs50ide",
+  "description": "CS50 IDE on heroku.",
+  "keywords": ["CS50", "ide"],
+  "repository": "https://github.com/ssnjrthegr8/ide.git",
+  "stack": "container"
+}
